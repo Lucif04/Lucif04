@@ -1,5 +1,5 @@
 ### Hola Mi nombre es Lucia Bellome. 
-Acualmente estoy cursando 2do año de la carrera Analista de sistema y busco poder ingresar a una empresa en la que se me permita programar, resolver temas logicos y aprender día a día. Me gusta mucho más el Backend que el Frond End, pero me desempeño muy bien en ambos campos. 
+Me encuentro en la búsqueda de un puesto de trabajo en las siguientes áreas: desarrollo web, soporte técnico,  comercial, administrativo y atención al cliente. Mi objetivo es poder brindar a la empresa mis conocimientos y ser capaz de realizar las tareas como desarrollar, implementar, mantener y mejorar la plataforma correspondiente. A su vez soy competente para prestar servicios como: asesoría al cliente, organizar registros y hacer seguimientos de los mismos. 
 
 Soy una persona entusiasta, dedicada y orientada a cumplir los objetivos y metas que me voy poniendo en el camino. El desafio y la ambicion de aprender cosas nuevas es lo que me motiva todos los días. Me apasiona la informática y la psicología, ya que te permiten aprender todos los días, creo que la innovación en la tecnología y lo humano van de la mano y son fundamental para el futuro. 
 <!--
