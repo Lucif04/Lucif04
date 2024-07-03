@@ -1,8 +1,9 @@
 ### Hola Mi nombre es Lucia Bellome. 
-Me encuentro en la búsqueda de un puesto de trabajo en las siguientes áreas: desarrollo web, soporte técnico,  comercial, administrativo y atención al cliente. Mi objetivo es poder brindar a la empresa mis conocimientos y ser capaz de realizar las tareas como desarrollar, implementar, mantener y mejorar la plataforma correspondiente. A su vez soy competente para prestar servicios como: asesoría al cliente, organizar registros y hacer seguimientos de los mismos. 
+Estoy en búsqueda de un puesto de trabajo en las áreas de desarrollo web, backend o bases de datos. Mi objetivo es brindar a la empresa mis conocimientos y ser capaz de desarrollar, implementar, mantener y mejorar la plataforma correspondiente. También soy competente en servicios de asesoría al cliente, organización de registros y seguimiento de los mismos.
 
-Soy una persona entusiasta, dedicada y orientada a cumplir los objetivos y metas que me voy poniendo en el camino. El desafio y la ambicion de aprender cosas nuevas es lo que me motiva todos los días. Me apasiona la informática y la psicología, ya que te permiten aprender todos los días, creo que la innovación en la tecnología y lo humano van de la mano y son fundamental para el futuro. 
-<!--
+Soy una persona entusiasta, dedicada y orientada a cumplir objetivos y metas. El desafío y la ambición de aprender cosas nuevas me motiva todos los días. Me apasiona la informática y la psicología, ya que ambas permiten un aprendizaje continuo. Creo que la innovación tecnológica y el entendimiento humano van de la mano y son fundamentales para el futuro.
+
+Actualmente, estoy en mi último año de la carrera de Analista de Sistemas.
 **Lucif04/Lucif04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
