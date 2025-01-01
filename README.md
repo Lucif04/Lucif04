@@ -9,10 +9,13 @@ Me considero una persona entusiasta, dedicada y orientada a objetivos. Me motiva
 
 ### Proyecto Destacado: Diseño e Implementación de Sistemas (2024)
 El proyecto más grande realizado en el 2024 fue el trabajo final de la materia Diseño e Implementación de Sistemas, el cual llevé a cabo durante todo el año junto con Osvaldo Plaza, mi colega y amigo de toda la vida. Este proyecto está disponible en los siguientes enlaces:
+
 [/github.com/sis-contable/frontend](https://github.com/sis-contable/frontend)
+
 [/github.com/sis-contable/server](https://github.com/sis-contable/server)
 
 Este proyecto nos permitió:
+
 Mejorar el trabajo colaborativo.
 Utilizar y conocer herramientas como Jira y Figma.
 Aplicar metodologías ágiles como Scrum en el desarrollo del sistema.
