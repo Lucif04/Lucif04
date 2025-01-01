@@ -7,5 +7,18 @@ El 13 de diciembre de 2024, me recibí como Analista de Sistemas, una carrera qu
 
 Me considero una persona entusiasta, dedicada y orientada a objetivos. Me motiva enfrentar desafíos constantes y aprender cosas nuevas día a día. También siento un gran interés por la psicología, ya que creo firmemente que la combinación entre la innovación tecnológica y el entendimiento humano es clave para construir un futuro mejor.
 
+### Proyecto Destacado: Diseño e Implementación de Sistemas (2024)
+El proyecto más grande realizado en el 2024 fue el trabajo final de la materia Diseño e Implementación de Sistemas, el cual llevé a cabo durante todo el año junto con Osvaldo Plaza, mi colega y amigo de toda la vida. Este proyecto está disponible en los siguientes enlaces:
+[/github.com/sis-contable/frontend](https://github.com/sis-contable/frontend)
+[/github.com/sis-contable/server](https://github.com/sis-contable/server)
+
+Este proyecto nos permitió:
+Mejorar el trabajo colaborativo.
+Utilizar y conocer herramientas como Jira y Figma.
+Aplicar metodologías ágiles como Scrum en el desarrollo del sistema.
+Ampliar nuestras habilidades en Node.js y React para brindar un sistema de alta calidad.
+Espero que este proyecto sea de su agrado. ¡Gracias por tomarse el tiempo de verlo!
+
+
 ### Mi objetivo profesional
 Quiero unirme a una empresa especializada en desarrollo de software, donde pueda aplicar mis conocimientos, seguir aprendiendo nuevas tecnologías y nutrirme de la experiencia de colegas en el área. Estoy convencida de que mi dedicación y capacidad para adaptarme pueden ser un aporte valioso, y espero tener la oportunidad de crecer en un entorno que fomente el aprendizaje continuo.
